@@ -7,7 +7,7 @@
 body{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(255, 170, 12);
+    background-color: darkolivegreen;
     display: flex;
     justify-content: center;
     align-items: center;
